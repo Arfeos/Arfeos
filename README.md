@@ -75,7 +75,7 @@ A desktop application developed as part of my personal development projects.
 
 🔗 [View project on GitHub](https://github.com/Arfeos/Proyecto_AngelMartinez)
 
-### 🖥️ Desktop Application
+### 🖥️ mage shooter
 
 Shooter produce as part of game development using unity.
 
