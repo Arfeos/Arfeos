@@ -93,16 +93,4 @@ Shooter produce as part of game development using unity.
 
 ---
 
-## 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Arfeos&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arfeos&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
 ### 🚀 Always learning. Always building.
