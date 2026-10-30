@@ -81,6 +81,10 @@ Shooter produce as part of game development using unity.
 
 🔗 [View project on GitHub](https://github.com/Arfeos/magic_shooter.git)
 
+### Personal page
+
+more project inside of it
+🔗 [click here](arfeos.github.io/My-page/)
 ---
 
 ## 📫 Contact
