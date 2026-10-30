@@ -84,7 +84,8 @@ Shooter produce as part of game development using unity.
 ### Personal page
 
 more project inside of it
-🔗 [click here](arfeos.github.io/My-page/)
+
+🔗 [click here](https://arfeos.github.io/My-page/)
 ---
 
 ## 📫 Contact
